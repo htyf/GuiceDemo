@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE struts PUBLIC
+      "-//Apache Software Foundation//DTD Struts Configuration 2.0//EN"
+      "http://struts.apache.org/dtds/struts-2.0.dtd">
+
+<struts>
+
+	<constant name="guice.module" value="struts.modules.ServiceModule" />
+
+	<package name="default" extends="struts-default">
+		<action name="access-status" class="struts.actions.AccessStatusAction">
+			<result>access-status.jsp</result>
+		</action>
+	</package>
+
+</struts>
