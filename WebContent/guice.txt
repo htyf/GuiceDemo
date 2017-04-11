@@ -1,39 +1,39 @@
-ĞÂÊÖÈëÃÅ½Ì³Ì£º   http://blog.csdn.net/u011870547/article/details/52622097
+æ–°æ‰‹å…¥é—¨æ•™ç¨‹ï¼š   http://blog.csdn.net/u011870547/article/details/52622097
 
 
-ÍøÕ¾COOL SKILL
-guiceÈëÃÅ½Ì³Ì:ÒÀÀµ×¢ÈëÖ®ÀàÒÀÀµ×¢Èë£º	http://www.coolskill.net/article/guice-demo-class-inject.htm
-guice ÈëÃÅ½Ì³Ì£ºÒÀÀµ×¢ÈëÖ®ÊôĞÔ×¢Èë£º	http://www.coolskill.net/article/guice-demo-field-inject.htm
-guiceÒÀÀµ×¢ÈëÖ®¸ß¼¶¹¦ÄÜ--¶àÊµÏÖ£º	http://www.coolskill.net/article/advanced-guice-inject-methods.htm
+ç½‘ç«™COOL SKILL
+guiceå…¥é—¨æ•™ç¨‹:ä¾èµ–æ³¨å…¥ä¹‹ç±»ä¾èµ–æ³¨å…¥ï¼š	http://www.coolskill.net/article/guice-demo-class-inject.htm
+guice å…¥é—¨æ•™ç¨‹ï¼šä¾èµ–æ³¨å…¥ä¹‹å±æ€§æ³¨å…¥ï¼š	http://www.coolskill.net/article/guice-demo-field-inject.htm
+guiceä¾èµ–æ³¨å…¥ä¹‹é«˜çº§åŠŸèƒ½--å¤šå®ç°ï¼š	http://www.coolskill.net/article/advanced-guice-inject-methods.htm
 
 
 
 
-guiceÖ®°ó¶¨·½Ê½£º	http://www.tuicool.com/articles/VnARbi
-²©¿Í£¨ÖµµÃ½è¼ø£©£º	http://www.blogjava.net/xylz/
+guiceä¹‹ç»‘å®šæ–¹å¼ï¼š	http://www.tuicool.com/articles/VnARbi
+åšå®¢ï¼ˆå€¼å¾—å€Ÿé‰´ï¼‰ï¼š	http://www.blogjava.net/xylz/
 
-google guiceÈëÃÅ½Ì³ÌÏµÁĞ£º£¨xylz,imxylz  ---BlogJava£©
-1. ÒÀÀµ×¢Èë
-1.1ÀàÒÀÀµ×¢Èë  
+google guiceå…¥é—¨æ•™ç¨‹ç³»åˆ—ï¼šï¼ˆxylz,imxylz  ---BlogJavaï¼‰
+1. ä¾èµ–æ³¨å…¥
+1.1ç±»ä¾èµ–æ³¨å…¥  
 http://www.blogjava.net/xylz/archive/2010/xylz/archive/2009/xylz/archive/2009/xylz/archive/2009/xylz/archive/2009/xylz/archive/2009/xylz/archive/2009/xylz/archive/2009/xylz/archive/2009/12/22/306955.html
-1.2 ÊôĞÔ×¢Èë£¨Field Inject£©-- »ù±¾ÊôĞÔ×¢Èë  ¹¹Ôìº¯Êı×¢Èë  Setter×¢Èë  
+1.2 å±æ€§æ³¨å…¥ï¼ˆField Injectï¼‰-- åŸºæœ¬å±æ€§æ³¨å…¥  æ„é€ å‡½æ•°æ³¨å…¥  Setteræ³¨å…¥  
 http://www.blogjava.net/xylz/archive/2010/xylz/archive/2009/xylz/archive/2009/xylz/archive/2009/xylz/archive/2009/xylz/archive/2009/xylz/archive/2009/xylz/archive/2009/xylz/archive/2009/xylz/archive/2009/12/23/307092.html
-1.3 ¸ü¶à»°Ìâ--½Ó¿Ú¶àÊµÏÖ  provider×¢Èë  ³£Á¿×¢Èë °ó¶¨Properties
+1.3 æ›´å¤šè¯é¢˜--æ¥å£å¤šå®ç°  provideræ³¨å…¥  å¸¸é‡æ³¨å…¥ ç»‘å®šProperties
 http://www.blogjava.net/xylz/archive/2010/xylz/archive/2009/xylz/archive/2009/xylz/archive/2009/xylz/archive/2009/xylz/archive/2009/xylz/archive/2009/xylz/archive/2009/xylz/archive/2009/xylz/archive/2009/xylz/archive/2009/12/24/307199.html
-Scope(×÷ÓÃÓò)  Eagerly Loading Bindings £¨Á¢¼´³õÊ¼»¯£©  Stages (ÔËĞĞ½×¶Î)   Optional Injection (Ñ¡Ïî×¢Èë )
+Scope(ä½œç”¨åŸŸ)  Eagerly Loading Bindings ï¼ˆç«‹å³åˆå§‹åŒ–ï¼‰  Stages (è¿è¡Œé˜¶æ®µ)   Optional Injection (é€‰é¡¹æ³¨å…¥ )
 http://www.blogjava.net/xylz/archive/2010/xylz/archive/2009/xylz/archive/2009/xylz/archive/2009/xylz/archive/2009/xylz/archive/2009/xylz/archive/2009/xylz/archive/2009/xylz/archive/2009/xylz/archive/2009/xylz/archive/2009/xylz/archive/2009/12/25/307282.html
-2 AOP ÃæÏòÇĞÃæ±à³Ì--AOPÈëÃÅ  AOPÏà¹Ø¸ÅÄî  ÇĞÃæ×¢ÈëÒÀÀµ  Matcher
+2 AOP é¢å‘åˆ‡é¢ç¼–ç¨‹--AOPå…¥é—¨  AOPç›¸å…³æ¦‚å¿µ  åˆ‡é¢æ³¨å…¥ä¾èµ–  Matcher
 http://www.blogjava.net/xylz/archive/2009/xylz/archive/2009/12/27/307400.html
-3.Web ºÍ Servlet-- ¿ìËÙ¿ªÊ¼  ×¢Èë·şÎñ  ÕûºÏStruts 2  
+3.Web å’Œ Servlet-- å¿«é€Ÿå¼€å§‹  æ³¨å…¥æœåŠ¡  æ•´åˆStruts 2  
 http://www.blogjava.net/xylz/archive/2009/12/27/307464.html
-4 ÕûºÏµÚÈı·½×é¼ş-- ÕûºÏDWR  ÕûºÏSpring  
+4 æ•´åˆç¬¬ä¸‰æ–¹ç»„ä»¶-- æ•´åˆDWR  æ•´åˆSpring  
 http://www.blogjava.net/xylz/archive/2009/xylz/archive/2009/12/29/307574.html
-5. GuiceÓëJMX
+5. Guiceä¸JMX
 http://www.blogjava.net/xylz/archive/2009/xylz/archive/2009/xylz/archive/2009/12/31/307917.html
 
 
 
 
 
-jar°üÏÂÔØµØÖ·£º
+jaråŒ…ä¸‹è½½åœ°å€ï¼š
 http://www.java2s.com/
